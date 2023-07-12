@@ -1,2 +1,2 @@
-# Animal-classification-using-customised-data
-CNN
+## Animal-classification-using-customised-data
+
